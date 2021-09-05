@@ -1,11 +1,11 @@
 import React from "react";
-import ProjectName from "./ProjectName";
+import GuruHargobindEnterprises from "./GuruHargobindEnterprises";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <ProjectName />
+      <GuruHargobindEnterprises />
     </div>
   );
 }

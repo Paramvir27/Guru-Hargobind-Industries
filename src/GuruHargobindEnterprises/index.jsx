@@ -2,8 +2,8 @@ import React from "react";
 import Routes from "./Routes";
 import "./Styles/index.css";
 
-const ProjectName = () => {
+const GuruHargobindEnterprises = () => {
   return <Routes />;
 };
 
-export default ProjectName;
+export default GuruHargobindEnterprises;
