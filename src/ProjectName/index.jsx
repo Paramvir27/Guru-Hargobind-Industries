@@ -2,8 +2,8 @@ import React from "react";
 import Routes from "./Routes";
 import "./Styles/index.css";
 
-const PortfolioWebsite = () => {
+const ProjectName = () => {
   return <Routes />;
 };
 
-export default PortfolioWebsite;
+export default ProjectName;

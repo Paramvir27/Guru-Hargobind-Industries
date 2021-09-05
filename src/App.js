@@ -1,11 +1,11 @@
 import React from "react";
-import PortfolioWebsite from "./PortfolioWebsite";
+import ProjectName from "./ProjectName";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <PortfolioWebsite />
+      <ProjectName />
     </div>
   );
 }
